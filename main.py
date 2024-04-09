@@ -8,6 +8,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow
 from PyQt5.QtCore import QTimer
 from taskman_ui import Ui_MainWindow
 
+# test Alec
 
 class MyMainWindow(QMainWindow, Ui_MainWindow):
     def __init__(self):
